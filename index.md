@@ -1,4 +1,5 @@
 # DFW Python Meetup
+![A banner image] (images/banner.jpg)
 
 ## Home | About | Events | Resources | Login
 
