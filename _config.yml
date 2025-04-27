@@ -1,47 +1,44 @@
-site:
-  name: "DFW Python Meetup"
-  description: "A community of Python enthusiasts in the Dallas-Fort Worth area."
-  base_url: "/"
-  navigation:
-    - title: "Home"
-      link: "/"
-    - title: "About"
-      link: "/about"
-    - title: "Events"
-      link: "/events"
-    - title: "Resources"
-      link: "/resources"
-    - title: "Login"
-      link: "/login"
+site_name: DFW Pythoneers
+site_url: https://dfwpython.github.io/
+site_description: DFW Python User Group
 
-meetup:
-  next_event:
-    date: "2025-06-15"
-    time: "18:30 CST"
-    topic: "Python for Data Analysis"
-    location: "Tech Hub Dallas"
-    details: "Workshop on Python's data analysis libraries like Pandas and NumPy."
-    links:
-      - title: "Join Next Meetup"
-        url: "/events/june-2025"
-      - title: "Learn More"
-        url: "/about"
+nav:
+  - Home: index.md
+  - Meetings: meetings.md
+  - Upcoming Events: events.md
+  - Sponsors: sponsors.md
+  - Contact: contact.md
 
-community:
-  join_options:
-    - title: "Join our Slack"
-      url: "/community/slack"
-    - title: "Subscribe to Newsletter"
-      url: "/community/newsletter"
+theme:
+  name: material
+  palette:
+    primary: teal
+    accent: amber
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
 
-resources:
-  quick_links:
-    - title: "About Us"
-      description: "Learn about our mission and the organizers behind DFW Python."
-      url: "/about"
-    - title: "Events"
-      description: "Check out our upcoming meetups and past event archives."
-      url: "/events"
-    - title: "Resources"
-      description: "Useful Python resources, tools, and learning materials."
-      url: "/resources"
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - pymdownx.highlight:
+      linenums: true
+  - pymdownx.superfences
+
+extra_css:
+  - stylesheets/custom.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/meetup
+      link: https://www.meetup.com/dfwpython/
+    - icon: fontawesome/brands/github
+      link: https://github.com/dfwpython
+
+plugins:
+  - search
