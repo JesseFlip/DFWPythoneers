@@ -8,6 +8,20 @@ __
 
 We are a community of Python enthusiasts who gather to discuss and explore various aspects of Python programming. Our meetings cover topics ranging from web development and data analysis to system administration and game programming. We strive to be beginner-friendly while also providing advanced material for experienced developers.
 
+## Upcoming Events
+
+- **Main Monthly Meeting**  
+  *Date:* Thursday, May 1, 2025  
+  *Time:* Beginner's Session at 6:00 PM, Main Meeting at 7:00 PM  
+  *Location:* Improving, Plano, TX  
+  *Description:* A friendly gathering for Python programmers of all levels.  
+
+- **PyTexas Monthly Meetup: AI in the Cloud**  
+  *Date:* Wednesday, May 7, 2025  
+  *Time:* 8:00 PM CST  
+  *Location:* PyTexas Discord Server  
+  *Description:* Virtual meetup discussing AI integration in cloud-native software stacks.  
+
 ## Meeting Schedule
 
 We host several events each month:
@@ -30,19 +44,6 @@ We host several events each month:
   *Time:* 7:00 PM – 9:00 PM  
   *Description:* Informal gatherings to socialize and network.  
 
-## Upcoming Events
-
-- **Main Monthly Meeting**  
-  *Date:* Thursday, May 1, 2025  
-  *Time:* Beginner's Session at 6:00 PM, Main Meeting at 7:00 PM  
-  *Location:* Improving, Plano, TX  
-  *Description:* A friendly gathering for Python programmers of all levels.  
-
-- **PyTexas Monthly Meetup: AI in the Cloud**  
-  *Date:* Wednesday, May 7, 2025  
-  *Time:* 8:00 PM CST  
-  *Location:* PyTexas Discord Server  
-  *Description:* Virtual meetup discussing AI integration in cloud-native software stacks.  
 
 ## Sponsors
 
