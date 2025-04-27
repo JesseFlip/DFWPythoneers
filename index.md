@@ -2,6 +2,8 @@
 
 Welcome to the DFW Pythoneers, a vibrant Python user group serving the Dallas-Fort Worth area since 2004. Whether you're new to Python or a seasoned developer, our community offers opportunities to learn, share, and connect.
 
+__
+
 ## About Us
 
 We are a community of Python enthusiasts who gather to discuss and explore various aspects of Python programming. Our meetings cover topics ranging from web development and data analysis to system administration and game programming. We strive to be beginner-friendly while also providing advanced material for experienced developers.
