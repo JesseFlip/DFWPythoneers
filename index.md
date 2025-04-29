@@ -1,4 +1,4 @@
-<img src="ptx.png" width="30" height="30"> # DFW Pythoneers
+# DFW Pythoneers <img src="ptx.png" width="30" height="30"> 
 
 Welcome to the DFW Pythoneers, a vibrant Python user group serving the Dallas-Fort Worth area since 2004. Whether you're new to Python or a seasoned developer, our community offers opportunities to learn, share, and connect.
 
